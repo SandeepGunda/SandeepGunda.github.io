@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U-Net on Sandeep Gunda</title>
+    <link>https://sandeepGunda.github.io/tags/u-net/</link>
+    <description>Recent content in U-Net on Sandeep Gunda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sandeepGunda.github.io/tags/u-net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tree Log Detection</title>
+      <link>https://sandeepGunda.github.io/project/tree-log/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/tree-log/</guid>
+      <description>Developed an object detection deep learning model to identify and count the number of tree logs in every truck image from the Georgia Pacific warehouse. Made an object segmentation tool to identify, segment and manually label the tree logs from the images to develop a labelled dataset using OpenCV and KL Divergence in python. Defined a deep learning model using U-Net architecture to predict the number of tree logs in over 11000 images with 78% accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandas on Sandeep Gunda</title>
+    <link>https://sandeepGunda.github.io/tags/pandas/</link>
+    <description>Recent content in Pandas on Sandeep Gunda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sandeepGunda.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti Money Laundering</title>
+      <link>https://sandeepGunda.github.io/project/aml/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/aml/</guid>
+      <description>Worked with the largest regional bank in the South-East USA which spends a considerable amount of time and resources investigating 30k+ suspicious money laundering alerts per month to develop a model which predicts the seriousness of the alerts. Led a team of 4 and tackled issues such as peer – profiling, unavailable data and false positives by feature generation and selection. Tested the data with Logistic Regression, Random Forest, SVC and ADA Boost models to predict the quality of alert (High or Low) using precision and recall parameters.</description>
+    </item>
+    
+    <item>
+      <title>Taxi Cab Trip Duration</title>
+      <link>https://sandeepGunda.github.io/project/trip-duration/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/trip-duration/</guid>
+      <description>Designed a Machine Learning model to predict the taxi trip duration based on the pickup and drop-off coordinates. Used K Means clustering to determine the various routes across the city and predicted the trip durations using Ridge regression, Lasso Regression, Random Forests and Neural Network and improved the predictions using grid search techniques. Random Forest Regressor provided a prediction with adjusted R square of 88%, which can have a significant impact for cab companies to determine their pricing.</description>
+    </item>
+    
+    <item>
+      <title>Tree Log Detection</title>
+      <link>https://sandeepGunda.github.io/project/tree-log/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/tree-log/</guid>
+      <description>Developed an object detection deep learning model to identify and count the number of tree logs in every truck image from the Georgia Pacific warehouse. Made an object segmentation tool to identify, segment and manually label the tree logs from the images to develop a labelled dataset using OpenCV and KL Divergence in python. Defined a deep learning model using U-Net architecture to predict the number of tree logs in over 11000 images with 78% accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>

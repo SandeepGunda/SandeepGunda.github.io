@@ -1,36 +1,342 @@
----
-layout: null
----
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in site.pages %}
-    {% if page.sitemap != null and page.sitemap != empty %}
-      <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-        {% if page.sitemap %}
-          {% if page.sitemap.lastmod %}
-          <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-          {% endif %}
-          {% if page.sitemap.changefreq %}
-          <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-          {% endif %}
-          {% if page.sitemap.priority %}
-          <priority>{{ page.sitemap.priority }}</priority>
-          {% endif %}
-        {% endif %}
-       </url>
-    {% endif %}
-  {% endfor %}
-  {% for post in site.posts %}
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
     <url>
-      <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
-      {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
+    
+      <loc>https://sandeepGunda.github.io/project/aml/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
     </url>
-  {% endfor %}
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/trip-duration/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/tree-log/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/talk/example/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/ada-boost/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/convolutional-neural-networks/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/decision-trees/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/image-analytics/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/k-means-clustering/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/kl-divergence/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/keras/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/lasso-regression/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/logistic-regression/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/matplotlib/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/numpy/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/opencv/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/pandas/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/python/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/random-forest/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/random-forests/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/ridge-regression/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/sql/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/svm/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/scikit-learn/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/tensorflow/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/u-net/</loc>
+      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
 </urlset>

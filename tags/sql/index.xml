@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Sandeep Gunda</title>
+    <link>https://sandeepGunda.github.io/tags/sql/</link>
+    <description>Recent content in SQL on Sandeep Gunda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sandeepGunda.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti Money Laundering</title>
+      <link>https://sandeepGunda.github.io/project/aml/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/aml/</guid>
+      <description>Worked with the largest regional bank in the South-East USA which spends a considerable amount of time and resources investigating 30k+ suspicious money laundering alerts per month to develop a model which predicts the seriousness of the alerts. Led a team of 4 and tackled issues such as peer – profiling, unavailable data and false positives by feature generation and selection. Tested the data with Logistic Regression, Random Forest, SVC and ADA Boost models to predict the quality of alert (High or Low) using precision and recall parameters.</description>
+    </item>
+    
+  </channel>
+</rss>
