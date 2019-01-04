@@ -11,6 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Fake Review Generation</title>
+      <link>https://sandeepGunda.github.io/project/fake-review/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/fake-review/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;To prove that public opinion of businesses can be easily manipulated by fake reviews, we generated a topic model which generates restaurant reviews based on real restaurant reviews.&lt;/li&gt;
+&lt;li&gt;We aggregated, cleaned and developed a corpus of restaurant reviews from Yelp.&lt;/li&gt;
+&lt;li&gt;Designed Marcov, LSTM and RNN deep learning models to train on the texts and predict the upcoming texts or characters.&lt;/li&gt;
+&lt;li&gt;Obtained the most realistic reviews using the LSTM model.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Anti Money Laundering</title>
       <link>https://sandeepGunda.github.io/project/aml/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>

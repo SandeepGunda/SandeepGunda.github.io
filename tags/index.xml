@@ -24,7 +24,7 @@
     <item>
       <title>Convolutional Neural Networks</title>
       <link>https://sandeepGunda.github.io/tags/convolutional-neural-networks/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/convolutional-neural-networks/</guid>
       <description></description>
@@ -42,9 +42,18 @@
     <item>
       <title>Deep Learning</title>
       <link>https://sandeepGunda.github.io/tags/deep-learning/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GloVe Embedding</title>
+      <link>https://sandeepGunda.github.io/tags/glove-embedding/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/glove-embedding/</guid>
       <description></description>
     </item>
     
@@ -78,9 +87,18 @@
     <item>
       <title>Keras</title>
       <link>https://sandeepGunda.github.io/tags/keras/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSTM</title>
+      <link>https://sandeepGunda.github.io/tags/lstm/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/lstm/</guid>
       <description></description>
     </item>
     
@@ -112,9 +130,18 @@
     </item>
     
     <item>
+      <title>Marcov Model</title>
+      <link>https://sandeepGunda.github.io/tags/marcov-model/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/marcov-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Matplotlib</title>
       <link>https://sandeepGunda.github.io/tags/matplotlib/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/matplotlib/</guid>
       <description></description>
@@ -141,7 +168,7 @@
     <item>
       <title>Pandas</title>
       <link>https://sandeepGunda.github.io/tags/pandas/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/pandas/</guid>
       <description></description>
@@ -150,7 +177,7 @@
     <item>
       <title>Python</title>
       <link>https://sandeepGunda.github.io/tags/python/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/python/</guid>
       <description></description>
@@ -171,6 +198,15 @@
       <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/random-forests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Networks</title>
+      <link>https://sandeepGunda.github.io/tags/recurrent-neural-networks/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/recurrent-neural-networks/</guid>
       <description></description>
     </item>
     
@@ -213,9 +249,18 @@
     <item>
       <title>TensorFlow</title>
       <link>https://sandeepGunda.github.io/tags/tensorflow/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Analytics</title>
+      <link>https://sandeepGunda.github.io/tags/text-analytics/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/text-analytics/</guid>
       <description></description>
     </item>
     
@@ -225,6 +270,15 @@
       <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/u-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un-Supervised Learning</title>
+      <link>https://sandeepGunda.github.io/tags/un-supervised-learning/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/un-supervised-learning/</guid>
       <description></description>
     </item>
     

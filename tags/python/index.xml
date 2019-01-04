@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://sandeepGunda.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fake Review Generation</title>
+      <link>https://sandeepGunda.github.io/project/fake-review/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/fake-review/</guid>
+      <description> To prove that public opinion of businesses can be easily manipulated by fake reviews, we generated a topic model which generates restaurant reviews based on real restaurant reviews. We aggregated, cleaned and developed a corpus of restaurant reviews from Yelp. Designed Marcov, LSTM and RNN deep learning models to train on the texts and predict the upcoming texts or characters. Obtained the most realistic reviews using the LSTM model.  </description>
+    </item>
     
     <item>
       <title>Anti Money Laundering</title>
