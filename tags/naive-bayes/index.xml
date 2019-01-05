@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naive Bayes on Sandeep Gunda</title>
+    <link>https://sandeepGunda.github.io/tags/naive-bayes/</link>
+    <description>Recent content in Naive Bayes on Sandeep Gunda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sandeepGunda.github.io/tags/naive-bayes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flight Departure Delay Prediction</title>
+      <link>https://sandeepGunda.github.io/project/flight-delay/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/flight-delay/</guid>
+      <description>Obtained the dataset and converted date, month and year columns into date-time object, then into single date column. Encoded Airport and Airline names into numerical labels for easier analysis. Scraped weather data from www.wunderground.com (Weather Underground) and integrated into the flight delay dataset. Split Departure Delay column into 4 bins based on the amount of delay and predicted it using Random Forest, Logistic Regression, Decision Tree and Naïve Bayes from Scikit-learn library.</description>
+    </item>
+    
+  </channel>
+</rss>

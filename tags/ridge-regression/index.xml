@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sandeepGunda.github.io/tags/ridge-regression/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Taxi Cab Trip Duration</title>
       <link>https://sandeepGunda.github.io/project/trip-duration/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>https://sandeepGunda.github.io/project/trip-duration/</guid>
       <description>Designed a Machine Learning model to predict the taxi trip duration based on the pickup and drop-off coordinates. Used K Means clustering to determine the various routes across the city and predicted the trip durations using Ridge regression, Lasso Regression, Random Forests and Neural Network and improved the predictions using grid search techniques. Random Forest Regressor provided a prediction with adjusted R square of 88%, which can have a significant impact for cab companies to determine their pricing.</description>

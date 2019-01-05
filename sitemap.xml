@@ -4,32 +4,16 @@
     
     <url>
     
-      <loc>https://sandeepGunda.github.io/project/fake-review/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sandeepGunda.github.io/project/aml/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sandeepGunda.github.io/project/trip-duration/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://sandeepGunda.github.io/project/tree-log/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/fake-review/</loc>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -46,6 +30,38 @@
     
       <loc>https://sandeepGunda.github.io/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/aml/</loc>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/trip-duration/</loc>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/project/flight-delay/</loc>
+      <lastmod>2017-12-04T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -77,7 +93,16 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/ada-boost/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/beautiful-soup/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -94,7 +119,16 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/convolutional-neural-networks/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/decision-tree/</loc>
+      <lastmod>2017-12-04T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -103,7 +137,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/decision-trees/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -112,7 +146,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -121,7 +155,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/glove-embedding/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -130,7 +164,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/image-analytics/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -139,7 +173,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/k-means-clustering/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -148,7 +182,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/kl-divergence/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -157,7 +191,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/keras/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -166,7 +200,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/lstm/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -175,7 +209,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/lasso-regression/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -184,7 +218,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/logistic-regression/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -193,7 +227,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/machine-learning/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -202,7 +236,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/marcov-model/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -211,7 +245,34 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/matplotlib/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/mongodb/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/mysql/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/naive-bayes/</loc>
+      <lastmod>2017-12-04T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,7 +281,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/numpy/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -229,7 +290,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/opencv/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -238,7 +299,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/pandas/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -247,7 +308,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/project/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -264,7 +325,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/python/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -273,7 +334,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/random-forest/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -282,7 +343,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/random-forests/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -291,7 +352,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/recurrent-neural-networks/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -300,7 +361,16 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/ridge-regression/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/robo-3t/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -309,7 +379,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/sql/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -318,7 +388,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/svm/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -336,7 +406,25 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/scikit-learn/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/semantria-for-excel/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/sentiment-analysis/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -360,7 +448,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-26T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -369,7 +457,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/tensorflow/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -378,7 +466,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/text-analytics/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -387,7 +475,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/u-net/</loc>
-      <lastmod>2018-12-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -396,7 +484,16 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/un-supervised-learning/</loc>
-      <lastmod>2019-01-04T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/web-scraping/</loc>
+      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

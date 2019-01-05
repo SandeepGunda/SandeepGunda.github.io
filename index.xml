@@ -11,9 +11,23 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tree Log Detection</title>
+      <link>https://sandeepGunda.github.io/project/tree-log/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/tree-log/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Developed an object detection deep learning model to identify and count the number of tree logs in every truck image from the Georgia Pacific warehouse.&lt;/li&gt;
+&lt;li&gt;Made an object segmentation tool to identify, segment and manually label the tree logs from the images to develop a labelled dataset using OpenCV and KL Divergence in python.&lt;/li&gt;
+&lt;li&gt;Defined a deep learning model using U-Net architecture to predict the number of tree logs in over 11000 images with 78% accuracy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fake Review Generation</title>
       <link>https://sandeepGunda.github.io/project/fake-review/</link>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/project/fake-review/</guid>
       <description>&lt;ul&gt;
@@ -21,49 +35,6 @@
 &lt;li&gt;We aggregated, cleaned and developed a corpus of restaurant reviews from Yelp.&lt;/li&gt;
 &lt;li&gt;Designed Marcov, LSTM and RNN deep learning models to train on the texts and predict the upcoming texts or characters.&lt;/li&gt;
 &lt;li&gt;Obtained the most realistic reviews using the LSTM model.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anti Money Laundering</title>
-      <link>https://sandeepGunda.github.io/project/aml/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://sandeepGunda.github.io/project/aml/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Worked with the largest regional bank in the South-East USA which spends a considerable amount of time and resources investigating 30k+ suspicious money laundering alerts per month to develop a model which predicts the seriousness of the alerts.&lt;/li&gt;
-&lt;li&gt;Led a team of 4 and tackled issues such as peer – profiling, unavailable data and false positives by feature generation and selection.&lt;/li&gt;
-&lt;li&gt;Tested the data with Logistic Regression, Random Forest, SVC and ADA Boost models to predict the quality of alert (High or Low) using precision and recall parameters.&lt;/li&gt;
-&lt;li&gt;Delivered the ADA Boost model with a precision of 38.50% and recall of 78.48% for its high recall prediction.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Taxi Cab Trip Duration</title>
-      <link>https://sandeepGunda.github.io/project/trip-duration/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://sandeepGunda.github.io/project/trip-duration/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Designed a Machine Learning model to predict the taxi trip duration based on the pickup and drop-off coordinates.&lt;/li&gt;
-&lt;li&gt;Used K Means clustering to determine the various routes across the city and predicted the trip durations using Ridge regression, Lasso Regression, Random Forests and Neural Network and improved the predictions using grid search techniques.&lt;/li&gt;
-&lt;li&gt;Random Forest Regressor provided a prediction with adjusted R square of 88%, which can have a significant impact for cab companies to determine their pricing.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tree Log Detection</title>
-      <link>https://sandeepGunda.github.io/project/tree-log/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://sandeepGunda.github.io/project/tree-log/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Developed an object detection deep learning model to identify and count the number of tree logs in every truck image from the Georgia Pacific warehouse.&lt;/li&gt;
-&lt;li&gt;Made an object segmentation tool to identify, segment and manually label the tree logs from the images to develop a labelled dataset using OpenCV and KL Divergence in python.&lt;/li&gt;
-&lt;li&gt;Defined a deep learning model using U-Net architecture to predict the number of tree logs in over 11000 images with 78% accuracy.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -85,6 +56,74 @@
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anti Money Laundering</title>
+      <link>https://sandeepGunda.github.io/project/aml/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/aml/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Worked with the largest regional bank in the South-East USA which spends a considerable amount of time and resources investigating 30k+ suspicious money laundering alerts per month to develop a model which predicts the seriousness of the alerts.&lt;/li&gt;
+&lt;li&gt;Led a team of 4 and tackled issues such as peer – profiling, unavailable data and false positives by feature generation and selection.&lt;/li&gt;
+&lt;li&gt;Tested the data with Logistic Regression, Random Forest, SVC and ADA Boost models to predict the quality of alert (High or Low) using precision and recall parameters.&lt;/li&gt;
+&lt;li&gt;Delivered the ADA Boost model with a precision of 38.50% and recall of 78.48% for its high recall prediction.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taxi Cab Trip Duration</title>
+      <link>https://sandeepGunda.github.io/project/trip-duration/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/trip-duration/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed a Machine Learning model to predict the taxi trip duration based on the pickup and drop-off coordinates.&lt;/li&gt;
+&lt;li&gt;Used K Means clustering to determine the various routes across the city and predicted the trip durations using Ridge regression, Lasso Regression, Random Forests and Neural Network and improved the predictions using grid search techniques.&lt;/li&gt;
+&lt;li&gt;Random Forest Regressor provided a prediction with adjusted R square of 88%, which can have a significant impact for cab companies to determine their pricing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison between Customer Reviews and Business Ratings</title>
+      <link>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</guid>
+      <description>&lt;p&gt;Work Performed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extracted information and reviews for 200 hotels on Expedia by web-scraping in Python.&lt;/li&gt;
+&lt;li&gt;Designed a SQL database for hotel information using normalized Entity Relationship model.&lt;/li&gt;
+&lt;li&gt;Calculated the sentiment for customer reviews using Semantria for Excel and designed a Mongo DB database for the sentiments.&lt;/li&gt;
+&lt;li&gt;Compared the sentiments with the hotel ratimngs for various categories.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conclusion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Even though most of the hotels have a similar User Rating and Expedia Rating, the sentiments of the reviews often differ.&lt;/li&gt;
+&lt;li&gt;Its easier to express the customer experience through reviews, than through ratings, so hotels should focus more on analyzing and responding to reviews for better insights.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flight Departure Delay Prediction</title>
+      <link>https://sandeepGunda.github.io/project/flight-delay/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/flight-delay/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Obtained the dataset and converted date, month and year columns into date-time object, then into single date column.&lt;/li&gt;
+&lt;li&gt;Encoded Airport and Airline names into numerical labels for easier analysis.&lt;/li&gt;
+&lt;li&gt;Scraped weather data from www.wunderground.com (Weather Underground) and integrated into the flight delay dataset.&lt;/li&gt;
+&lt;li&gt;Split Departure Delay column into 4 bins based on the amount of delay and predicted it using Random Forest, Logistic Regression, Decision Tree and Naïve Bayes from Scikit-learn library.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
