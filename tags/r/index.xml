@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Sandeep Gunda</title>
+    <link>https://sandeepGunda.github.io/tags/r/</link>
+    <description>Recent content in R on Sandeep Gunda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sandeepGunda.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twitter Sentiment Analysis</title>
+      <link>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</guid>
+      <description>A study on the public opinion about the topic &amp;ldquo;Bitcoin&amp;rdquo; by performing a sentiment analysis of 6000 tweets in Twitter having the hashtag &amp;ldquo;#Bitcoin&amp;rdquo; from Dec 1, 2017 to Dec 21, 2017.
+Work Done:
+ Extracted tweets using the &amp;ldquo;twitteR&amp;rdquo; library in R. Cleaned the text by removing graphical characters (e.g. emoji), removing punctuation, transforming the text to lowercase, removed common words (e.g. grammatical words, words common to the topic) and finally removed URLs from the text using regex.</description>
+    </item>
+    
+  </channel>
+</rss>

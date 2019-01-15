@@ -89,6 +89,32 @@
     </item>
     
     <item>
+      <title>Twitter Sentiment Analysis</title>
+      <link>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</guid>
+      <description>&lt;p&gt;A study on the public opinion about the topic &amp;ldquo;Bitcoin&amp;rdquo; by performing a sentiment analysis of 6000 tweets in Twitter having the hashtag &amp;ldquo;#Bitcoin&amp;rdquo; from Dec 1, 2017 to Dec 21, 2017.&lt;/p&gt;
+
+&lt;p&gt;Work Done:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extracted tweets using the &amp;ldquo;twitteR&amp;rdquo; library in R.&lt;/li&gt;
+&lt;li&gt;Cleaned the text by removing graphical characters (e.g. emoji), removing punctuation, transforming the text to lowercase, removed common words (e.g. grammatical words, words common to the topic) and finally removed URLs from the text using regex.&lt;/li&gt;
+&lt;li&gt;Made a corpus of documents out of them using the &amp;lsquo;tm&amp;rsquo; library in R.&lt;/li&gt;
+&lt;li&gt;Visualized the most popular terms using wordcloud and barplot.&lt;/li&gt;
+&lt;li&gt;Performed sentiment analysis through lexical method by using the list of AFINN positive and negative words to determine a sentiment score of each tweet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conclusion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;So in the end, apart from the majority neutral tweets (54.1%) meaning that people are still wary about the fluctuations in bitcoin prices, the number of positive tweets (27.5%) outweighed the negative ones (18.3%) majority are hoping about the growth in the prices due to investor optimism&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Comparison between Customer Reviews and Business Ratings</title>
       <link>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>

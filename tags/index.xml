@@ -40,6 +40,24 @@
     </item>
     
     <item>
+      <title>Data Cleaning</title>
+      <link>https://sandeepGunda.github.io/tags/data-cleaning/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/data-cleaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://sandeepGunda.github.io/tags/data-visualization/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decision Tree</title>
       <link>https://sandeepGunda.github.io/tags/decision-tree/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
@@ -126,6 +144,15 @@
       <pubDate>Thu, 26 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/lasso-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical Analysis</title>
+      <link>https://sandeepGunda.github.io/tags/lexical-analysis/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/lexical-analysis/</guid>
       <description></description>
     </item>
     
@@ -229,6 +256,15 @@
     </item>
     
     <item>
+      <title>R</title>
+      <link>https://sandeepGunda.github.io/tags/r/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Random Forest</title>
       <link>https://sandeepGunda.github.io/tags/random-forest/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 -0400</pubDate>
@@ -312,7 +348,7 @@
     <item>
       <title>Sentiment Analysis</title>
       <link>https://sandeepGunda.github.io/tags/sentiment-analysis/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/sentiment-analysis/</guid>
       <description></description>
@@ -328,11 +364,38 @@
     </item>
     
     <item>
+      <title>Term Document Matrix</title>
+      <link>https://sandeepGunda.github.io/tags/term-document-matrix/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/term-document-matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Text Analytics</title>
       <link>https://sandeepGunda.github.io/tags/text-analytics/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/text-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining</title>
+      <link>https://sandeepGunda.github.io/tags/text-mining/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter API</title>
+      <link>https://sandeepGunda.github.io/tags/twitter-api/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/twitter-api/</guid>
       <description></description>
     </item>
     
@@ -360,6 +423,15 @@
       <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot2</title>
+      <link>https://sandeepGunda.github.io/tags/ggplot2/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/ggplot2/</guid>
       <description></description>
     </item>
     
