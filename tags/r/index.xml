@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Sports Team Optimization</title>
-      <link>https://sandeepGunda.github.io/project/sports-team-optimization/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://sandeepGunda.github.io/project/sports-team-optimization/</guid>
-      <description>Introduction: In Indian Premier League, 11 teams are competing in a round-robin tournament. Before the tournament, there is an auction to buy players based on the fixed budget for each team, with some limitation on the number of foreign players per team, number of uncapped players per team, etc. In IPL, the franchise managers have a task of building a good team within the budget cap. The players are usually selected based on different heuristics, past experiences, or at most some crude methodologies.</description>
-    </item>
-    
-    <item>
       <title>Twitter Sentiment Analysis</title>
       <link>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
@@ -30,6 +21,15 @@
       <description>A study on the public opinion about the topic &amp;ldquo;Bitcoin&amp;rdquo; by performing a sentiment analysis of 6000 tweets in Twitter having the hashtag &amp;ldquo;#Bitcoin&amp;rdquo; from Dec 1, 2017 to Dec 21, 2017.
 Work Done:
  Extracted tweets using the &amp;ldquo;twitteR&amp;rdquo; library in R. Cleaned the text by removing graphical characters (e.g. emoji), removing punctuation, transforming the text to lowercase, removed common words (e.g. grammatical words, words common to the topic) and finally removed URLs from the text using regex.</description>
+    </item>
+    
+    <item>
+      <title>Sports Team Optimization</title>
+      <link>https://sandeepGunda.github.io/project/sports-team-optimization/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/sports-team-optimization/</guid>
+      <description>Introduction: In Indian Premier League, 11 teams are competing in a round-robin tournament. Before the tournament, there is an auction to buy players based on the fixed budget for each team, with some limitation on the number of foreign players per team, number of uncapped players per team, etc. In IPL, the franchise managers have a task of building a good team within the budget cap. The players are usually selected based on different heuristics, past experiences, or at most some crude methodologies.</description>
     </item>
     
   </channel>

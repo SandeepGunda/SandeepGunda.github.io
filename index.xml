@@ -89,9 +89,74 @@
     </item>
     
     <item>
+      <title>Twitter Sentiment Analysis</title>
+      <link>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</guid>
+      <description>&lt;p&gt;A study on the public opinion about the topic &amp;ldquo;Bitcoin&amp;rdquo; by performing a sentiment analysis of 6000 tweets in Twitter having the hashtag &amp;ldquo;#Bitcoin&amp;rdquo; from Dec 1, 2017 to Dec 21, 2017.&lt;/p&gt;
+
+&lt;p&gt;Work Done:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extracted tweets using the &amp;ldquo;twitteR&amp;rdquo; library in R.&lt;/li&gt;
+&lt;li&gt;Cleaned the text by removing graphical characters (e.g. emoji), removing punctuation, transforming the text to lowercase, removed common words (e.g. grammatical words, words common to the topic) and finally removed URLs from the text using regex.&lt;/li&gt;
+&lt;li&gt;Made a corpus of documents out of them using the &amp;lsquo;tm&amp;rsquo; library in R.&lt;/li&gt;
+&lt;li&gt;Visualized the most popular terms using wordcloud and barplot.&lt;/li&gt;
+&lt;li&gt;Performed sentiment analysis through lexical method by using the list of AFINN positive and negative words to determine a sentiment score of each tweet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conclusion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;So in the end, apart from the majority neutral tweets (54.1%) meaning that people are still wary about the fluctuations in bitcoin prices, the number of positive tweets (27.5%) outweighed the negative ones (18.3%) majority are hoping about the growth in the prices due to investor optimism&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison between Customer Reviews and Business Ratings</title>
+      <link>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</guid>
+      <description>&lt;p&gt;Work Performed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extracted information and reviews for 200 hotels on Expedia by web-scraping in Python.&lt;/li&gt;
+&lt;li&gt;Designed a SQL database for hotel information using normalized Entity Relationship model.&lt;/li&gt;
+&lt;li&gt;Calculated the sentiment for customer reviews using Semantria for Excel and designed a Mongo DB database for the sentiments.&lt;/li&gt;
+&lt;li&gt;Compared the sentiments with the hotel ratimngs for various categories.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conclusion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Even though most of the hotels have a similar User Rating and Expedia Rating, the sentiments of the reviews often differ.&lt;/li&gt;
+&lt;li&gt;Its easier to express the customer experience through reviews, than through ratings, so hotels should focus more on analyzing and responding to reviews for better insights.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flight Departure Delay Prediction</title>
+      <link>https://sandeepGunda.github.io/project/flight-delay/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/flight-delay/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Obtained the dataset and converted date, month and year columns into date-time object, then into single date column.&lt;/li&gt;
+&lt;li&gt;Encoded Airport and Airline names into numerical labels for easier analysis.&lt;/li&gt;
+&lt;li&gt;Scraped weather data from www.wunderground.com (Weather Underground) and integrated into the flight delay dataset.&lt;/li&gt;
+&lt;li&gt;Split Departure Delay column into 4 bins based on the amount of delay and predicted it using Random Forest, Logistic Regression, Decision Tree and Naïve Bayes from Scikit-learn library.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sports Team Optimization</title>
       <link>https://sandeepGunda.github.io/project/sports-team-optimization/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 -0400</pubDate>
       
       <guid>https://sandeepGunda.github.io/project/sports-team-optimization/</guid>
       <description>
@@ -181,71 +246,6 @@ We compared our team with Mumbai Indian Tea, with the same budget&lt;/p&gt;
 &lt;/table&gt;
 
 &lt;p&gt;As we can see our new optimized team better regarding numbers. We have high batting score and low bowling score Compared to Mumbai Indian. As we know, Batting parameter should be high, and bowling parameter should be low&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Twitter Sentiment Analysis</title>
-      <link>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</guid>
-      <description>&lt;p&gt;A study on the public opinion about the topic &amp;ldquo;Bitcoin&amp;rdquo; by performing a sentiment analysis of 6000 tweets in Twitter having the hashtag &amp;ldquo;#Bitcoin&amp;rdquo; from Dec 1, 2017 to Dec 21, 2017.&lt;/p&gt;
-
-&lt;p&gt;Work Done:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Extracted tweets using the &amp;ldquo;twitteR&amp;rdquo; library in R.&lt;/li&gt;
-&lt;li&gt;Cleaned the text by removing graphical characters (e.g. emoji), removing punctuation, transforming the text to lowercase, removed common words (e.g. grammatical words, words common to the topic) and finally removed URLs from the text using regex.&lt;/li&gt;
-&lt;li&gt;Made a corpus of documents out of them using the &amp;lsquo;tm&amp;rsquo; library in R.&lt;/li&gt;
-&lt;li&gt;Visualized the most popular terms using wordcloud and barplot.&lt;/li&gt;
-&lt;li&gt;Performed sentiment analysis through lexical method by using the list of AFINN positive and negative words to determine a sentiment score of each tweet.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Conclusion:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;So in the end, apart from the majority neutral tweets (54.1%) meaning that people are still wary about the fluctuations in bitcoin prices, the number of positive tweets (27.5%) outweighed the negative ones (18.3%) majority are hoping about the growth in the prices due to investor optimism&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comparison between Customer Reviews and Business Ratings</title>
-      <link>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://sandeepGunda.github.io/project/comparison-ratings-reviews/</guid>
-      <description>&lt;p&gt;Work Performed:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Extracted information and reviews for 200 hotels on Expedia by web-scraping in Python.&lt;/li&gt;
-&lt;li&gt;Designed a SQL database for hotel information using normalized Entity Relationship model.&lt;/li&gt;
-&lt;li&gt;Calculated the sentiment for customer reviews using Semantria for Excel and designed a Mongo DB database for the sentiments.&lt;/li&gt;
-&lt;li&gt;Compared the sentiments with the hotel ratimngs for various categories.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Conclusion:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Even though most of the hotels have a similar User Rating and Expedia Rating, the sentiments of the reviews often differ.&lt;/li&gt;
-&lt;li&gt;Its easier to express the customer experience through reviews, than through ratings, so hotels should focus more on analyzing and responding to reviews for better insights.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Flight Departure Delay Prediction</title>
-      <link>https://sandeepGunda.github.io/project/flight-delay/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://sandeepGunda.github.io/project/flight-delay/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Obtained the dataset and converted date, month and year columns into date-time object, then into single date column.&lt;/li&gt;
-&lt;li&gt;Encoded Airport and Airline names into numerical labels for easier analysis.&lt;/li&gt;
-&lt;li&gt;Scraped weather data from www.wunderground.com (Weather Underground) and integrated into the flight delay dataset.&lt;/li&gt;
-&lt;li&gt;Split Departure Delay column into 4 bins based on the amount of delay and predicted it using Random Forest, Logistic Regression, Decision Tree and Naïve Bayes from Scikit-learn library.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
