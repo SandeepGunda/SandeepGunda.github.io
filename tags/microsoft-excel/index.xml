@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Excel on Sandeep Gunda</title>
+    <link>https://sandeepGunda.github.io/tags/microsoft-excel/</link>
+    <description>Recent content in Microsoft Excel on Sandeep Gunda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sandeepGunda.github.io/tags/microsoft-excel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sports Team Optimization</title>
+      <link>https://sandeepGunda.github.io/project/sports-team-optimization/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/project/sports-team-optimization/</guid>
+      <description>Introduction: In Indian Premier League, 11 teams are competing in a round-robin tournament. Before the tournament, there is an auction to buy players based on the fixed budget for each team, with some limitation on the number of foreign players per team, number of uncapped players per team, etc. In IPL, the franchise managers have a task of building a good team within the budget cap. The players are usually selected based on different heuristics, past experiences, or at most some crude methodologies.</description>
+    </item>
+    
+  </channel>
+</rss>

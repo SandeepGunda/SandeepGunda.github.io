@@ -52,6 +52,14 @@
     
     <url>
     
+      <loc>https://sandeepGunda.github.io/project/sports-team-optimization/</loc>
+      <lastmod>2017-12-29T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sandeepGunda.github.io/project/twitter-sentiment-analysis/</loc>
       <lastmod>2017-12-29T00:00:00-05:00</lastmod>
     </url>
@@ -100,8 +108,25 @@
     
     <url>
     
+      <loc>https://sandeepGunda.github.io/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sandeepGunda.github.io/tags/ada-boost/</loc>
       <lastmod>2018-04-26T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -173,6 +198,15 @@
     
       <loc>https://sandeepGunda.github.io/tags/deep-learning/</loc>
       <lastmod>2018-11-30T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/excel-solver/</loc>
+      <lastmod>2017-12-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -288,6 +322,24 @@
     
     <url>
     
+      <loc>https://sandeepGunda.github.io/tags/microsoft-excel/</loc>
+      <lastmod>2017-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/microsoft-word/</loc>
+      <lastmod>2017-12-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sandeepGunda.github.io/tags/mongodb/</loc>
       <lastmod>2017-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -326,6 +378,15 @@
     
       <loc>https://sandeepGunda.github.io/tags/opencv/</loc>
       <lastmod>2018-11-30T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sandeepGunda.github.io/tags/operations-research/</loc>
+      <lastmod>2017-12-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -564,7 +625,7 @@
     <url>
     
       <loc>https://sandeepGunda.github.io/tags/web-scraping/</loc>
-      <lastmod>2017-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2017-12-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

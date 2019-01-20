@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Academic</title>
+      <link>https://sandeepGunda.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beautiful Soup</title>
       <link>https://sandeepGunda.github.io/tags/beautiful-soup/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
@@ -81,6 +90,15 @@
       <pubDate>Fri, 30 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel Solver</title>
+      <link>https://sandeepGunda.github.io/tags/excel-solver/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/excel-solver/</guid>
       <description></description>
     </item>
     
@@ -193,6 +211,24 @@
     </item>
     
     <item>
+      <title>Microsoft Excel</title>
+      <link>https://sandeepGunda.github.io/tags/microsoft-excel/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/microsoft-excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Word</title>
+      <link>https://sandeepGunda.github.io/tags/microsoft-word/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/microsoft-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MongoDB</title>
       <link>https://sandeepGunda.github.io/tags/mongodb/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
@@ -234,6 +270,15 @@
       <pubDate>Fri, 30 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operations Research</title>
+      <link>https://sandeepGunda.github.io/tags/operations-research/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://sandeepGunda.github.io/tags/operations-research/</guid>
       <description></description>
     </item>
     
@@ -420,7 +465,7 @@
     <item>
       <title>Web Scraping</title>
       <link>https://sandeepGunda.github.io/tags/web-scraping/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 -0500</pubDate>
       
       <guid>https://sandeepGunda.github.io/tags/web-scraping/</guid>
       <description></description>
